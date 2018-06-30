@@ -1,0 +1,1 @@
+--enable-gui=gtk3 --enable-python3interp=dynamic --enable-fail-if-missing
